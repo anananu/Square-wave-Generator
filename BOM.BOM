@@ -1,0 +1,31 @@
+  Revised: Wednesday, December 06, 2023
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       December 10,2023      18:54:58	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	33n
+2	1	C2	10n
+3	1	C3	2.2n
+4	1	D1	SMLS14BET
+5	1	D2	BZX84C5V1/PLP
+6	3	J1,J2,J3	CON2
+7	2	J4,J5	CON1
+8	4	P1,R6,R11,R12	100
+9	4	P2,R3,R4,R7	10k
+10	4	Q1,Q2,Q7,Q10	BC856B
+11	6	Q3,Q4,Q5,Q6,Q8,Q9	BC846B
+12	2	R1,R2	150
+13	1	R5	2.2k
+14	1	R8	4.7k
+15	1	R9	22k
+16	1	R10	2k
+17	3	R13,R14,R15	10
